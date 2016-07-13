@@ -1,0 +1,22 @@
+	    body{ 
+
+	    	background-image: url(https://static.pexels.com/photos/115054/pexels-photo-115054.jpeg);
+	    	background-size: cover; 
+	     } 
+	     h1 {
+
+	     	font-size: 65px;
+	     	font-family: 'Raleway', sans-serif;
+	        color:#660066;
+	        text-align: center;
+	        padding: 100px
+
+	     }
+
+	</style>
+</head>
+<body>
+<h1> Intermediate Web Design </h1>
+
+</body>
+</html>
